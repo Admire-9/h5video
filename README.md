@@ -206,6 +206,7 @@ var eventTester = function(e){
 https://segmentfault.com/a/1190000011245394
 http://www.cuplayer.com/player/PlayerCodeCourse/2017/06072953.html
 https://blog.csdn.net/weiyuefei/article/details/70257616
+https://blog.csdn.net/lch_cui/article/details/79688894
 
 支持类型：
  - Ogg = 带有 Theora 视频编码和 Vorbis 音频编码的 Ogg 文件
