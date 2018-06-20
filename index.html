@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <video id="media" src="h264.mp4" controls width="400px" heigt="400px"></video> 
+</body>
+<script>
+    Media = document.getElementById("media");
+    currentSrc =  Media.currentSrc;
+    networkState = Media.networkState;
+    currentTime = Media.currentTime; //当前播放的位置，赋值可改变位置
+    startTime = Media.startTime; //一般为0，如果为流媒体或者不从0开始的资源，则不为0
+    duration = Media.duration;  //当前资源长度 流返回无限
+    console.log(currentTime, startTime, duration);
+</script>
+</html>
