@@ -203,6 +203,10 @@ var eventTester = function(e){
 
 **Media Source Extensions**
 
+https://segmentfault.com/a/1190000011245394
+http://www.cuplayer.com/player/PlayerCodeCourse/2017/06072953.html
+https://blog.csdn.net/weiyuefei/article/details/70257616
+
 支持类型：
  - Ogg = 带有 Theora 视频编码和 Vorbis 音频编码的 Ogg 文件
  - MPEG4 = 带有 H.264 视频编码和 AAC 音频编码的 MPEG 4 文件
